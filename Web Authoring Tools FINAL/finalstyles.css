@@ -1,0 +1,36 @@
+.jumbotron {
+    background-color: #eddcd2
+}
+
+form-group {
+    color: #fff1e6;
+}
+
+#date {
+    display: inline-block;
+}
+span {
+    display: inline-block, 
+}
+span {
+    margin-right: 100px
+}
+
+card {
+    background-color: #ddbea9;
+}
+
+.card-body {
+    background-color: #ddbea9;
+    font-weight:bold;
+}
+.card-img-top {
+    background-color: #ddbea9;
+}
+
+.card {
+        margin: 0 auto; /* Added */
+        float: none; /* Added */
+        margin-bottom: 10px; /* Added */
+    
+}
